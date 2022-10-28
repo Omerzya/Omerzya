@@ -1,5 +1,6 @@
 22,27,16,2,18,6] __>Insertion Sort
 1.Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+     Patika.dev](https://www.patika.dev/tr
  - [22,27,16,2,18,6]    n
  - [2,27,16,22,18,6]    n-1
  - [2,6,16,22,18,27]    n-2
